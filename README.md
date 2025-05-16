@@ -1,7 +1,7 @@
 # rushHour
 
 Lancement
-- Lancé via l'editeur de code Spyder
+- Lancé via l'éditeur de code Spyder
 
 Objectif
 - Faire sortir la voiture rouge de la grille en déplaçant les autres véhicules en avant ou arrière.
@@ -17,4 +17,9 @@ Interface
 
 Note
 - Le bouton Solution réinitialise le puzzle en cours afin de donner une solution avec les positions initiaux.
-- Les puzzles vont garder un mémoire les déplacements effectués par le joueur. Le puzzle sera seulement réinitialisé quand l'utilisateur appuie sur le bouton Reset ou quand il réussit le puzzle.
+- Les puzzles vont garder un mémoire les déplacements effectués par le joueur. C'est à dire qu'en passant du niveau Easy à Medium, les voitures bougées en Easy seront gardées en mémoire.
+- Le puzzle sera seulement réinitialisé quand l'utilisateur appuie sur le bouton Reset ou quand il réussit le puzzle.
+
+Choix d'interface
+- Grille 8x8 pour afficher les bords et la sortie
+- Bordure mit en avant pour la voiture sélectionné
