@@ -1,5 +1,8 @@
 # rushHour
 
+Lancement
+- Lancé via l'editeur de code Spyder
+
 Objectif
 - Faire sortir la voiture rouge de la grille en déplaçant les autres véhicules en avant ou arrière.
 
